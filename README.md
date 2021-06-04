@@ -1,9 +1,9 @@
 ### Hi there, I'm Lily 👋 
-- 🔥 I'm an AI Engineer 🇲🇲
+- 🔥 I'm an AI/ML Engineer 🇲🇲
 - 🙋 I aspire to make an impact
 - 🌌 I’m currently learning Computer Vision, Machine Learning (life-long learning) 
 - 📚 I've researched Face Antispoofing using Eyes Movement and CNN-based Liveness Detection
-- ✨ I like to play boardgame 🤔
+- ✨ I like to play board games 🤔
 <!--
 **PhooPyae/PhooPyae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
