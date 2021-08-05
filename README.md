@@ -1,5 +1,5 @@
 ### Hi there, I'm Lily 👋 
-- 🔥 I'm an AI/ML Engineer 🇲🇲
+- 🔥 I'm a Data Scientist  🇲🇲
 - 🙋 I aspire to make an impact
 - 🌌 I’m currently learning Computer Vision, Machine Learning (life-long learning) 
 - 📚 I've researched Face Antispoofing using Eyes Movement and CNN-based Liveness Detection
