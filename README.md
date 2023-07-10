@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 [![Lily's GitHub stats-Dark](https://git-stats-taupe.vercel.app/api?username=PhooPyae&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Lily's GitHub stats-Light](https://git-stats-taupe.vercel.app/api?username=PhooPyae&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-![Top Langs](https://git-stats-taupe.vercel.app/api/top-langs/?username=PhooPyae&layout=compact)
+<!--![Top Langs](https://git-stats-taupe.vercel.app/api/top-langs/?username=PhooPyae&layout=compact)
