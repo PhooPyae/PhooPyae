@@ -1,7 +1,7 @@
 ### Hi there, I'm Lily 👋 
 - 🔥 I'm a Data Scientist  🇲🇲🇸🇬
 - 🙋 I aspire to make an impact
-- 🌌 I’m currently learning Computer Vision, Machine Learning (life-long learning) 
+- 🌌 Main Focus on Computer Vision, but RL is my next focus
 - 📚 I've researched Face Antispoofing using Eyes Movement and CNN-based Liveness Detection
 - ✨ I like to play board games 🤔
 <!--
