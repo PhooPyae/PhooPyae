@@ -1,9 +1,10 @@
 ### Hi there, I'm Lily 👋 
 - 🔥 I'm a Data Scientist  🇲🇲🇸🇬
-- 🙋 I aspire to make an impact
-- 🌌 Main Focus on Computer Vision, but RL is my next focus
-- 📚 I've researched Face Antispoofing using Eyes Movement and CNN-based Liveness Detection
-- ✨ I like to play board games 🤔
+- 🙋 I'm on a mission to make a positive impact
+- 🌌 Transitioning from Computer Vision to Continual Learning and Reinforcement Learning.
+- 📚 Publication - Face Anti-spoofing using Eyes Movement and CNN-based Liveness Detection [[Paper](https://ieeexplore.ieee.org/document/8921091)]
+- ♟️ Chess enthusiast 🌍 - still learning!
+- 💭 Love deep conversations on AI, not so much on small talk
 <!--
 **PhooPyae/PhooPyae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
