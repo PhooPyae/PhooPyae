@@ -1,5 +1,5 @@
 ### Hi there, I'm Lily 👋 
-- I'm a Ph.D Student at University of Illinois Urbana-Champaign
+💬 I'm a Ph.D Student at University of Illinois Urbana-Champaign.
 <!--
 **PhooPyae/PhooPyae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
